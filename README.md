@@ -1,6 +1,7 @@
 # authentication_web_app_node.js
 
-#Authentication Web app from scratch!
+#Authentication Web app from scratch in Node.Js!
+#All fundamentals of Authentication
 
 Modules of this app, are already uploaded to git repository. If you want, you can install it updated version.
 To get started! 
