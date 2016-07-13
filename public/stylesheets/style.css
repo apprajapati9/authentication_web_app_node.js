@@ -1,0 +1,26 @@
+body {
+  
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+
+  background-repeat: no-repeat;
+   background-position: 5% 0%; 
+   text-align: center;
+   
+  
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+.col{
+   border: 1px solid #00B7FF;
+}
+
+#contact{
+  text-decoration: underline;
+  text-align: right;
+  margin-top: 100px;
+}
